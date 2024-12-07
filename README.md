@@ -22,24 +22,6 @@ A **Realtime Chat Application** built with the **MERN Stack** (MongoDB, Express.
 
 ---
 
-## Getting Started 🛠️
-
-Follow the steps below to set up the project locally.
-
-### Prerequisites
-
-Ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (v16 or higher)
-- [MongoDB](https://www.mongodb.com/) (local or cloud)
-- [Git](https://git-scm.com/)
-
----
-
-Here's the installation section for your project:
-
----
-
 ## Installation & Setup 🛠️
 
 ### Prerequisites
@@ -75,7 +57,7 @@ Ensure you have the following installed:
 
 4. Start the backend server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ---
@@ -94,13 +76,10 @@ Ensure you have the following installed:
 
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 --- 
-
-Let me know if further edits are needed!
-   ```
 
 ---
 
@@ -131,14 +110,14 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 1. **Start the server**:
    ```bash
-   cd server
-   npm start
+   cd backend
+   npm run dev
    ```
 
 2. **Start the client**:
    ```bash
-   cd ../client
-   npm start
+   cd frontend
+   npm run dev
    ```
 
 3. Open your browser and navigate to:
@@ -147,88 +126,6 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
    ```
 
 ---
-
-### Deployment 🌐
-
-To build and deploy the application:
-
-1. Build the React client:
-   ```bash
-   cd client
-   npm run build
-   ```
-
-2. Start the server in production mode:
-   ```bash
-   cd ../server
-   npm start
-   ```
-
----
-
-Here's the installation section for your project:
-
----
-
-## Installation & Setup 🛠️
-
-### Prerequisites
-
-Ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (v16 or higher)
-- [MongoDB](https://www.mongodb.com/) (local or cloud instance)
-
----
-
-### Backend Setup
-
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Create a `.env` file and add the following:
-   ```env
-   MONGODB_URI=your_mongodb_connection_string
-   PORT=5001
-   JWT_SECRET=your_jwt_secret_key
-   CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
-   CLOUDINARY_API_KEY=your_cloudinary_api_key
-   CLOUDINARY_API_SECRET=your_cloudinary_api_secret
-   ```
-
-4. Start the backend server:
-   ```bash
-   npm start
-   ```
-
----
-
-### Frontend Setup
-
-1. Navigate to the frontend directory:
-   ```bash
-   cd frontend
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm start
-   ```
-
---- 
-
 
 ---
 
@@ -244,6 +141,12 @@ Ensure you have the following installed:
 ## Screenshots 📸
 
 _Add screenshots of your application here._
+![image](https://github.com/user-attachments/assets/f0b458e1-e304-4d5c-8ab3-28a3d5e49d3f)
+![image](https://github.com/user-attachments/assets/aca0aa7c-1ef6-4b67-8381-38ff468dad80)
+![image](https://github.com/user-attachments/assets/f4d71d43-4891-402e-a0a5-f9ca0c43d5b7)
+![image](https://github.com/user-attachments/assets/7bdad7f3-6917-4b6a-8688-214fb9d47da1)
+![image](https://github.com/user-attachments/assets/868e1acb-f32c-4d2b-a715-7cd2c67073a3)
+
 
 ---
 
