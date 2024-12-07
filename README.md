@@ -1,6 +1,3 @@
-Here’s a professional and detailed `README.md` template for your GitHub project based on the provided details:
-
----
 
 # Realtime Chat Application 💬
 
@@ -187,4 +184,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-Feel free to replace placeholder values and customize further! Let me know if you'd like additional adjustments.
