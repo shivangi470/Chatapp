@@ -137,7 +137,6 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 ## Screenshots 📸
 
-_Add screenshots of your application here._
 ![image](https://github.com/user-attachments/assets/f0b458e1-e304-4d5c-8ab3-28a3d5e49d3f)
 ![image](https://github.com/user-attachments/assets/aca0aa7c-1ef6-4b67-8381-38ff468dad80)
 ![image](https://github.com/user-attachments/assets/f4d71d43-4891-402e-a0a5-f9ca0c43d5b7)
